@@ -1,6 +1,11 @@
 # test-shopping-firebase
 
 
+<br>
+<img height="200" src="https://github.com/ivandacruz/test-shopping-firebase/blob/main/shopping-logo.jpg"/>
+</br>
+
+
 ## App de compras
 
 ## Objetivo
