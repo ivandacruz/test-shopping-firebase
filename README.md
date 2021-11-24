@@ -20,6 +20,6 @@
 * Firebase (É uma plataforma desenvolvida pelo Google para a criação de aplicativos móveis e da web.)
 
 ## Desafios
-* Foi criar a crizção App Android em java integrando com firebase, para ter login e senha e apresentar seu portfólio de produtos
+* Foi a criaçãoa de um App Android em java integrando com firebase, para ter login e senha e apresentar seu portfólio de produtos
 * e poder escolher um ou mais ou retirar do carrinho, um app intuitivo e elegante de uso simplificado.
 
